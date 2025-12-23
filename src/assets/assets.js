@@ -77,7 +77,7 @@ export const profileData = [
     {
         icon: FaCode ,
         title: 'Language',
-        technologies : ['c', 'c++', 'React', 'express js', 'Tailwindcss']
+        technologies : ['HTML', 'Javascript', 'React', 'express js', 'Tailwindcss']
     },
     {
         icon: FaSchool ,

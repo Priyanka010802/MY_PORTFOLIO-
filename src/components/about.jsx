@@ -56,7 +56,7 @@ const Aboutme = () => {
 
             {/* Button */}
             <a
-              href="/resume.pdf"
+              href="../assets/Priyanka Sangamkar_Resume.pdf"
               download
               className="inline-flex items-center justify-center px-8 py-3 rounded-full bg-purple-600 text-white text-sm md:text-base font-semibold shadow-md hover:bg-purple-700 transition"
             >
@@ -83,7 +83,7 @@ const Aboutme = () => {
                     Priyanka Suryakant
                   </h4>
                   <p className="text-sm text-slate-500">
-                    Frontend Developer • React • Tailwind CSS
+                       FrontEnd Developer  • Software Engineer 
                   </p>
                 </div>
               </div>
